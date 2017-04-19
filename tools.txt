@@ -1,0 +1,12 @@
+# Command line tools
+
+- [autojump](https://github.com/wting/autojump) - a cd command that learns
+- [fasd](https://github.com/clvv/fasd) - a something even better
+- [firacode](https://github.com/tonsky/FiraCode) - monospace font with
+  programming ligatures
+- [shell syntax
+  highlight](https://github.com/zsh-users/zsh-syntax-highlighting) - syntax
+  highlight for ZSH
+- _pbcopy_ - `brew` - command line copy 
+- [nord](https://github.com/arcticicestudio/nord-iterm2) - nord iterm theme
+- _the silver searcher_ - `brew install the_silver_searcher`
